@@ -130,20 +130,7 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
             ),
             const SizedBox(height: 8),
-            ElevatedButton(
-              style: ElevatedButton.styleFrom(
-                  minimumSize: const Size(327, 50),
-                  elevation: 0,
-                  shape: const RoundedRectangleBorder(
-                    borderRadius: BorderRadius.all(Radius.circular(20)),
-                  ),
-                  textStyle: const TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.w600,
-                  )),
-              onPressed: loginClick,
-              child: const Text('Login'),
-            ),
+            CustomButton(onTap: loginClick),
           ],
         ),
       ),
