@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![IMG_4144](https://github.com/JeanmartinPV/rive_login_animation/assets/42988089/635e4cb7-a712-4dbb-b943-f1c5243dd5bd)
